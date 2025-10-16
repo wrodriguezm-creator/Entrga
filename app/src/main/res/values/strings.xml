@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Entrga</string>
+    <string name="title1">Bienvenido</string>
+    <string name="btn_entrada">Entrar</string>
+    <string name="title2">Welcome</string>
+    <string name="btn_sing">Sing In</string>
+    <string name="title3">Bienvenu</string>
+    <string name="btn_se_connecter">Se Connecter</string>
+    <string name="title4">Willkommen</string>
+    <string name="btn_anmelden">Anmelden</string>
+
+
+</resources>
